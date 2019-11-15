@@ -13,6 +13,7 @@ body{
   font-family: "Varela Round";
   overflow: hidden;
   width:100%;
+  max-width:100%;
   position: fixed;
   top:0;
   left:0;
@@ -21,8 +22,9 @@ body{
 
 .img{
     //display: block;
-    margin:auto;
-    width:100%;
+    //margin:auto;
+    max-width:100%;
+    height:auto;
     padding:10px;
 
 }
