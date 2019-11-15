@@ -27,11 +27,12 @@ body{
   color:rgb(46, 194, 194);
 
 }
-img{
+#img{
   display: block;
   //position: fixed;
   //margin-left: auto;
   //margin-right: auto;
+  padding-bottom: 10px;
   overflow: hidden;
   width: 100%;
   height: auto;
@@ -73,4 +74,16 @@ img{
   font-family: "Varela Round";
   color:black;
   /*whatever width you want*/
+}
+
+#step1{
+  text-align:center;
+}
+
+#instructions{
+  width: auto;
+  max-width: 100px;
+  top:0;
+  left:0;
+  right:0;
 }
