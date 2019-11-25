@@ -5,8 +5,8 @@ body{
 }
 
 #headerInfo{
-  background: white;
-  color: rgb(46, 194, 194);
+  background: black;
+  color: white;
   font-weight: bold;
   text-align: left;
   font-family: "Varela Round";
@@ -38,7 +38,7 @@ body{
   overflow: hidden;
   max-width: 100%;
   height: auto;
-  max-height: 100%;
+  max-height: 50%;
   top:0;
   left:0;
   //z-index: -1;
